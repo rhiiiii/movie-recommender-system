@@ -1,0 +1,18 @@
+# virtual environment
+venv/
+
+# model files
+models/
+
+# data files
+data/
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
