@@ -63,8 +63,8 @@ movie-recommender-ui/
 
 ## ⚙️ Setup Instructions
 
-1️⃣ Clone the repository
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd movie-recommender-ui
 2️⃣ Create and activate virtual environment
